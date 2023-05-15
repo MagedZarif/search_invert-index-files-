@@ -1,0 +1,4 @@
+The latest edition includes data from a broad set of academic, private, and nonprofit 
+organizations as well as more self-collected data and original analysis than any previous editions, 
+including an expanded technical performance chapter, a new survey of robotics researchers around the world, data on global 
+AI legislation records in 25 countries, and a new chapter with an in-depth analysis of technical AI ethics metrics.

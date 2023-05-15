@@ -1,0 +1,8 @@
+Since 2018, the cost to train an image classification system has decreased by 63.6%, 
+while training times have improved by 94.4%. The trend of lower training cost but faster 
+training time appears across other MLPerf task categories such as recommendation, object 
+detection and language processing, and favors the more widespread commercial adoption of AI 
+technologies.Since 2018, the cost to train an image classification system has decreased by 63.6%, 
+while training times have improved by 94.4%. The trend of lower training cost but faster training 
+time appears across other MLPerf task categories such as recommendation, object detection and language processing, 
+and favors the more widespread commercial adoption of AI technologies. maged.

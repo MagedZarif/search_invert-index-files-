@@ -1,0 +1,4 @@
+The AI Index is an independent initiative at the Stanford Institute for Human-Centered Artificial Intelligence
+ HAI, led by the AI Index Steering Committee, an interdisciplinary group of experts from across academia and industry.
+ The annual report tracks, collates, distills, and visualizes data relating to artificial intelligence, enabling decision-makers
+ to take meaningful action to advance AI responsibly and ethically with humans in mind.
